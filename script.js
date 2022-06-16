@@ -4,19 +4,20 @@ const elts = {
 };
 
 const texts = [
-    "If",
-    "You",
-    "Like",
-    "It",
-    "Please",
-    "Give",
-    "a Love",
-    ":)",
-    "by @DotOnion"
+    "吉住の",
+    "吉住による",
+    "吉住のための",
+    "会 社",
+    "  ",
+    "株式会社",
+    " 吉　住　",
+    "  ",
+    
+    /*"by @DotOnion"*/
 ];
 
 const morphTime = 1;
-const cooldownTime = 0.25;
+const cooldownTime = 2/*0.25*/;
 
 let textIndex = texts.length - 1;
 let time = new Date();
