@@ -1,10 +1,9 @@
-/*@import url("https://fonts.googleapis.com/css?family=Raleway:900&display=swap");*/
-@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url("https://fonts.googleapis.com/css?family=Raleway:900&display=swap");
+
 
 body {
     margin: 0px;
     color: white;
-    font-size: 20px;
     text-shadow: 5px 5px 10px black, 0 0 25px blue, 0 0 5px red;
     
 }
@@ -34,16 +33,10 @@ body {
     display: inline-block;
 
     font-family: "Raleway", sans-serif;
-    font-size: 7rem/*80pt*/;
+    font-size: 68pt;
 
     text-align: center;
 
     user-select: none;
 }
 
-@media (max-width: 800px){
-    div {
-        font-size: 5rem;
-    }
-   
-}
