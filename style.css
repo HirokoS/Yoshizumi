@@ -42,7 +42,7 @@ body {
 }
 
 @media (max-width: 800px){
-    #text1, #text2 {
+    #container {
         font-size: 5rem;
     }
 }
