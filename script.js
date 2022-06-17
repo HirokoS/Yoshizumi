@@ -13,7 +13,7 @@ const texts = [
     " 吉　住　",
     "  ",
     
-    /*"by @DotOnion"*/
+    
 ];
 
 const morphTime = 1;
