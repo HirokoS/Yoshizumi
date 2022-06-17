@@ -42,10 +42,8 @@ body {
 }
 
 @media (max-width: 800px){
-    #text1 {
+    div {
         font-size: 5rem;
     }
-    #text2{
-        font-size: 5rem;
-    }
+   
 }
